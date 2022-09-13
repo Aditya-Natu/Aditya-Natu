@@ -9,7 +9,7 @@ CFD codes that automatically discretises and solves equations with time-evolutio
 Codes for generating Streamlines, Streaklines, and Pathlines for 2D flows when you have an expression for the velocity profile. Find the code here: [https://github.com/Aditya-Natu/2D-Stream-Streak-Path-liner](https://github.com/Aditya-Natu/2D-Stream-Streak-Path-liner). Make sure you read User_Manual.pdf!
 
 ## 3. Rack-and-Pinion Steering Design Script
-A script that will calculate the lengths of the steering arm, the tie rods, and the distance between the rack and the axle for a rack-and pinion steering system. It will also show you with a plot how much does the designed mechanism deviate from the ideal steering condition. Find the code here: [https://github.com/Aditya-Natu/Rack-and-Pinion-Steering-Geometry-Calculator](https://github.com/Aditya-Natu/Rack-and-Pinion-Steering-Geometry-Calculator). Make sure you read User_Manual.pdf!
+A script that will calculate the lengths of the steering arm, the tie rods, and the distance between the rack and the axle for a rack-and pinion steering system. It will also show you with a plot how much does the designed mechanism deviate from the ideal steering condition. Find the code here: [https://github.com/Aditya-Natu/Rack-and-Pinion-Steering-Geometry-Calculator](https://github.com/Aditya-Natu/Rack-and-Pinion-Steering-Geometry-Calculator). Make sure you read User_Manual.pdf! (Note: This project wouldn't have been possible without my friend and team-mate Ankit Sharma. I am very grateful to him.)
 
 <!--
 **Aditya-Natu/Aditya-Natu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
